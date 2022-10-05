@@ -28,10 +28,11 @@ h5{
   color:red;
 } */
 .card-header0{
-  color: black; 
+  color: white; 
 }
 .card0{
   color: black; 
+  float: right;
 }
 
 .card-header{
