@@ -27,12 +27,10 @@ h5{
   font-size:20px;
   color:red;
 } */
-.card-header0{
-  color: white; 
-}
+
 .card0{
   color: black; 
-  float: right;
+  float: center;
 }
 
 .card-header{
