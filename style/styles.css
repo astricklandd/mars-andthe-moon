@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@600&display=swap');
 h1{
-  color:red;
+  color:white;
+  font-family: 'Gemunu Libre', sans-serif;
+  font-weight: bold;
 }
 
 h3 {
