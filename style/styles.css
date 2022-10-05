@@ -20,27 +20,27 @@ body {
     display: none;
   }
 
-  .row {
-    color: white;
-  }
-.box{
-  border:3px solif #fff;
-  padding: 20px;
-  color:white;
-}
+/*   .
 h5{
   float: right;
   font-weight: bold;
   font-size:20px;
   color:red;
+} */
+.card-header0{
+  color: black; 
+  align: right; 
 }
+.card0{
+  color: black; 
+  float: right;
+}
+
 .card-header{
   color: black; 
   align: right; 
-  
 }
 .card{
   color: black; 
   float: right;
-  
 }
