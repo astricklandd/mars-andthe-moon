@@ -36,9 +36,9 @@ h5{
 
 .card-header{
   color: black; 
-  float: right; 
+  float: left; 
 }
 .card{
   color: black; 
-  float: right;
+  float: left;
 }
